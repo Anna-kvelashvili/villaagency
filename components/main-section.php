@@ -105,7 +105,7 @@
       <div class="col-lg-10 offset-lg-1">
         <div class="video-frame">
           <img src="assets/images/video-frame.jpg" alt="">
-          <a href="https://youtube.com" target="_blank"><i class="fa fa-play"></i></a>
+          <a href="https://www.youtube.com/watch?v=U8Cd_McCdow" target="_blank"><i class="fa fa-play"></i></a>
         </div>
       </div>
     </div>
